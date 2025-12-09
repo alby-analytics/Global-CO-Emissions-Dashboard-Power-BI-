@@ -11,5 +11,5 @@ The dashboard explains:
 • Insights derived from time-series & influencer visuals
 
 Dataset
-Source: Our World In Data (OWID) – CO■ & Greenhouse Gas Emissions Dataset
+Source: Our World In Data (OWID) – CO₂ & Greenhouse Gas Emissions Dataset
 
