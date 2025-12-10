@@ -14,16 +14,16 @@ Dataset
 Source: Our World In Data (OWID) – CO₂ & Greenhouse Gas Emissions Dataset
 
 Final cleaned dataset includes:-
--	Country, Year, ISO code
--	Population
--	GDP
--	CO₂ Emission
--	CO₂ Per Capita
--	Coal, Oil, Gas, Cement CO₂
--	Total GHG
--	Methane & Nitrous Oxide
--	Energy indicators (Energy per capita, Energy Intensity, Energy per GDP)
--	Other Calculated columns for analysis (Total Fossil & Fossil Share)
+•	Country, Year, ISO code
+•	Population
+•	GDP
+•	CO₂ Emission
+•	CO₂ Per Capita
+•	Coal, Oil, Gas, Cement CO₂
+•	Total GHG
+•	Methane & Nitrous Oxide
+•	Energy indicators (Energy per capita, Energy Intensity, Energy per GDP)
+•	Other Calculated columns for analysis (Total Fossil & Fossil Share)
 
 All data for non-country aggregates (World/Continents/Income Groups) were removed.
 
@@ -42,11 +42,11 @@ Steps Performed -
 - Verified country grouping for proper time intelligence
 
 Key Insights
--	Global CO₂ emissions continue to rise, driven by population and economic expansion.
--	China, US, India, and Russia dominate global emissions.
--	GDP and population are major influencing factors (Key Influencer visual).
--	Coal is the largest contributor to emissions worldwide.
--	Future trend shows continued emission growth.
+•	Global CO₂ emissions continue to rise, driven by population and economic expansion.
+•	China, US, India, and Russia dominate global emissions.
+•	GDP and population are major influencing factors (Key Influencer visual).
+•	Coal is the largest contributor to emissions worldwide.
+•	Future trend shows continued emission growth.
 
 
 
