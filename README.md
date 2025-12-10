@@ -44,7 +44,7 @@ Steps Performed -
 Key Insights
 •	Global CO₂ emissions continue to rise, driven by population and economic expansion.
 •	China, US, India, and Russia dominate global emissions.
-•	GDP and population are major influencing factors (Key Influencer visual).
+•	GDP and population are major influencing factors.
 •	Coal is the largest contributor to emissions worldwide.
 •	Future trend shows continued emission growth.
 
