@@ -13,7 +13,7 @@ The dashboard explains:
 Dataset
 Source: Our World In Data (OWID) – CO₂ & Greenhouse Gas Emissions Dataset
 
-Final cleaned dataset includes:
+Final cleaned dataset includes:-
 •	Country, Year, ISO code
 •	Population
 •	GDP
@@ -26,5 +26,28 @@ Final cleaned dataset includes:
 •	Other Calculated columns for analysis (Total Fossil & Fossil Share)
 
 All data for non-country aggregates (World/Continents/Income Groups) were removed.
+
+Data Cleaning & Preparation -
+Cleaning was done in Excel, and modeling in Power BI.
+Steps Performed -
+•	Removed aggregate rows (World, continents, income groups)
+•	Standardized column names
+•	Replaced missing emission values with 0
+•	Kept GDP & population blank when entire country-year was missing
+•	Validated Total GHG from OWID (CH₄ & N₂O already in CO₂-equivalent)
+•	Added calculated helper fields:
+- Total Fossil = Coal + Oil + Gas
+-	YoY CO₂ Growth (absolute + %)
+•	Ensured correct data types & year sorting
+•	Verified country grouping for proper time intelligence
+
+Key Insights
+•	Global CO₂ emissions continue to rise, driven by population and economic expansion.
+•	China, US, India, and Russia dominate global emissions.
+•	GDP and population are major influencing factors (Key Influencer visual).
+•	Coal is the largest contributor to emissions worldwide.
+•	Future trend shows continued emission growth.
+
+
 
 
